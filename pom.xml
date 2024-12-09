@@ -11,14 +11,13 @@
     </properties>
 
     <dependencies>
-        <!-- MySQL Connector -->
+        
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.1.0</version>
+            <version>8.0.34</version>
         </dependency>
 
-        <!-- Servlet API -->
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
@@ -26,21 +25,18 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- Twilio for SMS -->
         <dependency>
             <groupId>com.twilio</groupId>
             <artifactId>twilio</artifactId>
-            <version>8.30.0</version>
+            <version>8.0.0</version>
         </dependency>
 
-        <!-- SendGrid for Email -->
         <dependency>
             <groupId>com.sendgrid</groupId>
             <artifactId>sendgrid-java</artifactId>
             <version>4.9.1</version>
         </dependency>
-
-        <!-- PayPal API -->
+        
         <dependency>
             <groupId>com.paypal.sdk</groupId>
             <artifactId>rest-api-sdk</artifactId>
@@ -53,7 +49,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.13.0</version>
+                <version>4.13.0</version>
             </plugin>
         </plugins>
     </build>
