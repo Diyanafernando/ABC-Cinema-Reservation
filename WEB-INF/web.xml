@@ -1,0 +1,11 @@
+<web-app>
+    <servlet>
+        <servlet-name>BookingServlet</servlet-name>
+        <servlet-class>com.abc.BookingServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>BookingServlet</servlet-name>
+        <url-pattern>/book</url-pattern>
+    </servlet-mapping>
+</web-app>
