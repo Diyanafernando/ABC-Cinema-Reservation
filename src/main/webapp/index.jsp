@@ -19,7 +19,7 @@
     <div class="nav_bar">
         <div class="nav_bar container d-flex justify-content-between align-items-center">
             <div class="logo">
-                <a href="index.html">CINX</a>
+                <a href="index.jsp">CINX</a>
             </div>
             <nav>
                 <ul class="nav-item">

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feedback Form</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 <h1>Feedback Form</h1>
@@ -27,6 +28,40 @@
     <button type="submit">Submit Feedback</button>
 </form>
 <!-- End of Feedback Form -->
-
+<canvas id="feedbackChart"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx = document.getElementById('feedbackChart').getContext('2d');
+    const feedbackChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Excellent', 'Good', 'Average', 'Poor'],
+            datasets: [{
+                label: '# of Feedbacks',
+                data: [12, 19, 3, 5], // Replace with dynamic data
+                backgroundColor: [
+                    'rgba(75, 192, 192, 0.2)',
+                    'rgba(54, 162, 235, 0.2)',
+                    'rgba(255, 206, 86, 0.2)',
+                    'rgba(255, 99, 132, 0.2)'
+                ],
+                borderColor: [
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(255, 99, 132, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
 </body>
 </html>
