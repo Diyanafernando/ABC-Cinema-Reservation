@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CINX - Amazing Movie Experience</title>
+    <title>ABC Cinema - Amazing Movie Experience</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="index.css">
@@ -19,7 +19,7 @@
     <div class="nav_bar">
         <div class="nav_bar container d-flex justify-content-between align-items-center">
             <div class="logo">
-                <a href="index.jsp">CINX</a>
+                <a href="index.jsp">ABC Cinema</a>
             </div>
             <nav>
                 <ul class="nav-item">
