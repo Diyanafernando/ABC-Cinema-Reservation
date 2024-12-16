@@ -15,7 +15,14 @@
 <h1>Book Your Ticket</h1>
 <form action="book" method="POST">
     <label for="movieName">Movie Name:</label>
-    <input type="text" id="movieName" name="movieName" required><br>
+    <select id="movieName" name="movieName" required>
+        <option value="" disabled selected>Select a Movie</option>
+        <option value="AVATAR 3">AVATAR 3</option>
+        <option value="BUDDY">BUDDY</option>
+        <option value="FATEH">FATEH</option>
+        <option value="MACRO">MACRO</option>
+        <option value="SMILE">SMILE</option>
+    </select><br>
 
     <label for="seatNumber">Seat Number:</label>
     <input type="text" id="seatNumber" name="seatNumber" required><br>
