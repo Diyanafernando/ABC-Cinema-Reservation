@@ -9,7 +9,6 @@ public class DatabaseConnection {
     public static Connection getConnection() {
         if (connection == null) {
             try {
-                // Update the database URL, username, and password as needed
                 String url = "jdbc:mysql://localhost:3306/abc_cinema";
                 String username = "root";
                 String password = "1234";

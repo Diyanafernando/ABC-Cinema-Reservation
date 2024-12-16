@@ -8,7 +8,7 @@
 <body style="background-image:url(images/background.jpg)">
 
 <div class="container">
-    <form action="paymentProcessing.jsp" method="POST"> <!-- Ensure this form action points to your JSP processing logic -->
+    <form action="paymentProcessing.jsp" method="POST">
         <div class="row">
             <div class="column">
                 <h3 class="title">Billing Address</h3>
