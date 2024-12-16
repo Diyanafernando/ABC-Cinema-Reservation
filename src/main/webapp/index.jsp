@@ -25,7 +25,7 @@
             <nav>
                 <ul class="nav-item">
                     <li><a href="index.jsp">Home</a></li>
-                    <li><a href="#">Movies</a></li>
+                    <li><a href="#Movies">Movies</a></li>
                     <li><a href="feedback.jsp">Feedback</a></li>
                     <li><a href="#Contact">Contact Us</a></li>
                 </ul>
@@ -42,7 +42,7 @@
     <div class="banner-content">
         <h1 style="color: white !important;">Amazing Movie Experience</h1>
         <p>Come and enjoy our best movie experience with the best sound system.</p>
-        <a href="#movies" class="btn">Explore</a>
+        <a href="#Movies" class="btn">Explore</a>
     </div>
     <div class="circle-img">
         <img src="images/transformers.jpg" alt="Transformers">
@@ -53,7 +53,9 @@
         <div class="row" style="visibility: visible;">
             <div class="col-md-12">
                 <div class="titlepage">
+                    <div id="Movies" class="Movies">
                     <h2 style="color: Black !important;">MOVIES </h2>
+                    </div>
                 </div>
             </div>
         </div>
