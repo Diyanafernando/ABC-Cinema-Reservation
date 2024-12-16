@@ -27,7 +27,7 @@
                     <li><a href="index.jsp">Home</a></li>
                     <li><a href="#">Movies</a></li>
                     <li><a href="feedback.jsp">Feedback</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#Contact">Contact Us</a></li>
                 </ul>
             </nav>
             <div class="login-buttons">
@@ -266,8 +266,6 @@
 
                 <!-- end testimonial -->
 
-                <!-- contact -->
-                <div id="contact" class="contact">
                     <div class="container">
 
                         <div class="row">
@@ -297,7 +295,7 @@
                         </div>
 
                     </div>
-                </div>
+
 
                 <!-- end contact -->
 
@@ -344,6 +342,7 @@
 
                                         <div class="col-lg-3 col-md-6 col-sm-6 ">
                                             <div class="address">
+                                                <div id="Contact" class="contact">
                                                 <h3>Contact us </h3>
                                                 <ul class="loca">
                                                     <li>
@@ -354,6 +353,7 @@
                                                     <li>
                                                         <a href="#"><img src="icon/call.png" alt="#" /></a>+947772233 </li>
                                                 </ul>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
