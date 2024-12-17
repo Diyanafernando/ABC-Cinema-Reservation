@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title> Cinx Payment Gateway</title>
+    <title>Cinx Payment Gateway</title>
     <link rel="stylesheet" href="css/payment.css">
 </head>
 <body style="background-image:url(images/background.jpg)">
 
 <div class="container">
-    <form action="paymentProcessing.jsp" method="POST">
+    <form action="generateOTP.jsp" method="POST">
         <div class="row">
             <div class="column">
                 <h3 class="title">Billing Address</h3>
