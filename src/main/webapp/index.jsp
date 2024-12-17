@@ -10,7 +10,7 @@
     <title> Amazing Movie Experience</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
     </style>
@@ -45,7 +45,7 @@
         <a href="#Movies" class="btn">Explore</a>
     </div>
     <div class="circle-img">
-        <img src="images/transformers.jpg" alt="Transformers">
+        <img src="css/images/transformers.jpg" alt="Transformers">
     </div>
 </div>
 <div id="games" class="our" style="visibility: visible;">
@@ -65,7 +65,7 @@
 
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                         <div class="two-box">
-                            <figure><img src="images/2222.jpg" alt="#" /></figure>
+                            <figure><img src="css/images/2222.jpg" alt="#" /></figure>
                         </div>
                     </div>
 
@@ -85,7 +85,7 @@
 
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                         <div class="two-box">
-                            <figure><img src="images/buuddy.jpg" alt="#" /></figure>
+                            <figure><img src="css/images/buuddy.jpg" alt="#" /></figure>
                         </div>
                     </div>
 
@@ -106,7 +106,7 @@
 
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                                 <div class="two-box">
-                                    <figure><img src="images/FATEH.jpg" alt="#" /></figure>
+                                    <figure><img src="css/images/FATEH.jpg" alt="#" /></figure>
                                 </div>
                             </div>
 
@@ -126,7 +126,7 @@
 
                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                                     <div class="two-box">
-                                        <figure><img src="images/images (1).jpg" alt="#" /></figure>
+                                        <figure><img src="css/images/images (1).jpg" alt="#" /></figure>
                                     </div>
                                 </div>
 
@@ -147,7 +147,7 @@
 
                                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                                         <div class="two-box">
-                                            <figure><img src="images/jjjj.jpg" alt="#" /></figure>
+                                            <figure><img src="css/images/jjjj.jpg" alt="#" /></figure>
                                         </div>
                                     </div>
 
@@ -186,7 +186,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="box_bg">
                                     <div class="box_bg_img">
-                                        <figure><img src="images/big_bear_open_house_2019___2_7885_1440x564px.png"></figure>
+                                        <figure><img src="css/images/big_bear_open_house_2019___2_7885_1440x564px.png"></figure>
                                     </div>
                                 </div>
                             </div>
@@ -218,7 +218,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="about-box">
-                                    <figure><img src="images/banner2.jpg" alt="#" /></figure>
+                                    <figure><img src="css/images/banner2.jpg" alt="#" /></figure>
 
                                     <p><h3>innerse your self in a world of unparalleled story telling,<br>where every moment on screen captivates,inspires and leaves a lasting inpression</h3></p>
                                 </div>
@@ -244,14 +244,14 @@
                                 <div class="row box">
                                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
                                         <div class="testimonial_box">
-                                            <figure><img src="images/download.jpg" alt="#" /></figure>
+                                            <figure><img src="css/images/download.jpg" alt="#" /></figure>
                                         </div>
                                     </div>
 
 
                                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
                                         <div class="testimonial_box">
-                                            <figure><img src="images/images (2).jpg" alt="#" /></figure>
+                                            <figure><img src="css/images/images (2).jpg" alt="#" /></figure>
                                         </div>
                                     </div>
                                 </div>
@@ -265,8 +265,6 @@
 
                     </div>
                 </div>
-
-                <!-- end testimonial -->
 
                     <div class="container">
 
@@ -298,10 +296,6 @@
 
                     </div>
 
-
-                <!-- end contact -->
-
-                <!--  footer -->
                 <footr>
                     <div class="footer ">
                         <div class="container">
@@ -325,18 +319,18 @@
                                                     <li><a href="#"><img src="icon/lin(2).png"></a></li>
                                                     <li><a href="#"><img src="icon/instagram.png"></a></li>
                                                 </ul>
-                                                <a href="index.html"> <img src="images/pop.jpg" alt="logo"></a>
+                                                <a href="index.html"> <img src="css/images/pop.jpg" alt="logo"></a>
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-6 col-sm-6">
                                             <div class="address">
                                                 <h3>Quick links</h3>
                                                 <ul class="Menu_footer">
-                                                    <li class="active"> <img src="images/3.png" alt="#"> <a href="#game">movie</a> </li>
-                                                    <li><img src="images/3.png" alt="#"> <a href="#software">Software</a> </li>
-                                                    <li><img src="images/3.png" alt="#"> <a href="#about">About</a> </li>
-                                                    <li><img src="images/3.png" alt="#"> <a href="#testimonial"> hospitality</a> </li>
-                                                    <li><img src="images/3.png" alt="#"> <a href="#contact">Contact</a> </li>
+                                                    <li class="active"> <img src="css/images/3.png" alt="#"> <a href="#game">movie</a> </li>
+                                                    <li><img src="css/images/3.png" alt="#"> <a href="#software">Software</a> </li>
+                                                    <li><img src="css/images/3.png" alt="#"> <a href="#about">About</a> </li>
+                                                    <li><img src="css/images/3.png" alt="#"> <a href="#testimonial"> hospitality</a> </li>
+                                                    <li><img src="css/images/3.png" alt="#"> <a href="#contact">Contact</a> </li>
                                                 </ul>
                                             </div>
                                         </div>

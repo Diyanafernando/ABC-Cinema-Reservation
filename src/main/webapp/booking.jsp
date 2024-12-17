@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="booking.css">
+    <link rel="stylesheet" href="css/booking.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <title>Booking Page</title>
 </head>
@@ -25,7 +25,12 @@
     </select><br>
 
     <label for="seatNumber">Seat Number:</label>
-    <input type="text" id="seatNumber" name="seatNumber" required><br>
+    <select id="seatNumber" name="seatNumber" required>
+        <option value="" disabled selected>Select a Seat</option>
+        <% for(int i = 1; i <= 100; i++) { %>
+        <option value="<%= String.format("%03d", i) %>"><%= String.format("%03d", i) %></option>
+        <% } %>
+    </select><br>
 
     <label for="customerEmail">Email:</label>
     <input type="email" id="customerEmail" name="customerEmail" required><br>
