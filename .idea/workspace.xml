@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="abc-cinema:war" />
+      <artifact name="abc-cinema:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f3cc6fc-137f-4191-8eef-42344ab33c77" name="Changes" comment="payment">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nb-configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abc/BookingServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abc/DatabaseConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abc/FeedbackServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abc/NotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abc/PaymentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/VerifyOTP.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/billing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/booking.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/booking.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/feedback.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/2222 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/2222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/Avatarabout 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/FATEH.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/backgroundImg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/big_bear_open_house_2019___2_7885_1440x564px - Copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/big_bear_open_house_2019___2_7885_1440x564px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/buuddy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/fateh1-0463b3f0-8c2e-11ec-8efd-6d205f33f529 (1).avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/fateh1-0463b3f0-8c2e-11ec-8efd-6d205f33f529.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/gggggg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/hhh1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/images (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/images (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/jjhfjhbgvdh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/jjjj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/jjjjjjjjjjj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/m.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/movie-background-collage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/our-image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/our-image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/our-image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/p.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/pop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/search_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/soft.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/test1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/test2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/test3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/images/v.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/jquery.mCustomScrollbar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/meanmenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/nice-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/payment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/success.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/feedback.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/icon/call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/icon/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/icon/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/icon/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/icon/lin(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/icon/loc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/icon/tw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/Paymentbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/GenerateOTP.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/OTPverification.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/jquery-3.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/payment.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/success.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SingithKesara&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Diyanafernando/ABC-Cinema-Reservation&quot;,
+    &quot;accountId&quot;: &quot;187e4a9c-f03a-4f02-bcbd-19c2de7b4d68&quot;
+  }
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pwPfUoOokKi1GeSfKABjI2jApI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.ABC-Cinema-Reservation [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ABC-Cinema-Reservation [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ABC-Cinema-Reservation [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ABC-Cinema-Reservation [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ABC-Cinema-Reservation [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Cinema-Reservation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.ABC-Cinema-Reservation.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Tomcat .executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.34.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Tomcat 9.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Singith Kesara/IdeaProjects/Cinema-Reservation&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Singith Kesara\IdeaProjects\ABC-Cinema-Reservation\src\main\webapp\css" />
+      <recent name="C:\Users\Singith Kesara\IdeaProjects\ABC-Cinema-Reservation\src\main\webapp" />
+      <recent name="C:\Users\Singith Kesara\IdeaProjects\ABC-Cinema-Reservation\src\main\webapp\js" />
+      <recent name="C:\Users\Singith Kesara\IdeaProjects\ABC-Cinema-Reservation\src\main\webapp\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat " ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="23">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="abc-cinema:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/abc_cinema_war" />
+          </settings>
+        </artifact>
+        <artifact name="abc-cinema:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/abc_cinema_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="862f20b3-5f8c-4e50-8aea-f756de6ddf3b" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50717" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="abc-cinema:war" />
+          <artifact name="abc-cinema:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f3cc6fc-137f-4191-8eef-42344ab33c77" name="Changes" comment="" />
+      <created>1733674268361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733674268361</updated>
+      <workItem from="1733674270206" duration="1104000" />
+      <workItem from="1733774358325" duration="410000" />
+      <workItem from="1733775461101" duration="193000" />
+      <workItem from="1733775656365" duration="10475000" />
+      <workItem from="1733826350735" duration="8168000" />
+      <workItem from="1733834827438" duration="440000" />
+      <workItem from="1733841005835" duration="2488000" />
+      <workItem from="1733853484322" duration="1568000" />
+      <workItem from="1733905275642" duration="3409000" />
+      <workItem from="1733995720933" duration="15000" />
+      <workItem from="1734019123522" duration="1538000" />
+      <workItem from="1734020705659" duration="3949000" />
+      <workItem from="1734024821647" duration="166000" />
+      <workItem from="1734025036742" duration="150000" />
+      <workItem from="1734025218690" duration="69000" />
+      <workItem from="1734025499063" duration="1715000" />
+      <workItem from="1734108958485" duration="9512000" />
+      <workItem from="1734161920931" duration="12878000" />
+      <workItem from="1734198572595" duration="1939000" />
+      <workItem from="1734243343215" duration="6719000" />
+      <workItem from="1734265933599" duration="272000" />
+      <workItem from="1734273897141" duration="2801000" />
+      <workItem from="1734291388996" duration="1534000" />
+      <workItem from="1734366451634" duration="3639000" />
+      <workItem from="1734407932101" duration="5797000" />
+      <workItem from="1734414764680" duration="5776000" />
+      <workItem from="1734421119324" duration="2850000" />
+      <workItem from="1734892368743" duration="695000" />
+      <workItem from="1735734540423" duration="317000" />
+    </task>
+    <task id="LOCAL-00001" summary="Base work">
+      <option name="closed" value="true" />
+      <created>1733776536728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733776536728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Backend and Database">
+      <option name="closed" value="true" />
+      <created>1733781265600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733781265600</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Frontend changes">
+      <option name="closed" value="true" />
+      <created>1733782075165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733782075166</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Errors overloaded">
+      <option name="closed" value="true" />
+      <created>1733786138175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733786138175</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tomcat is missing">
+      <option name="closed" value="true" />
+      <created>1733834497330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733834497331</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tried to run with maven">
+      <option name="closed" value="true" />
+      <created>1733843422131</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733843422131</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tried to run with maven">
+      <option name="closed" value="true" />
+      <created>1734019369408</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734019369408</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tomcat">
+      <option name="closed" value="true" />
+      <created>1734024626092</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734024626092</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Frontend Index">
+      <option name="closed" value="true" />
+      <created>1734188188666</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734188188668</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Frontend Index">
+      <option name="closed" value="true" />
+      <created>1734266214474</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734266214474</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Payment">
+      <option name="closed" value="true" />
+      <created>1734277423806</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734277423806</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Payment">
+      <option name="closed" value="true" />
+      <created>1734371001799</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734371001799</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Payment">
+      <option name="closed" value="true" />
+      <created>1734408487733</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1734408487733</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Frontend changes">
+      <option name="closed" value="true" />
+      <created>1734413241150</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734413241150</updated>
+    </task>
+    <task id="LOCAL-00015" summary="payment">
+      <option name="closed" value="true" />
+      <created>1734420991467</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734420991467</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base work" />
+    <MESSAGE value="Backend and Database" />
+    <MESSAGE value="Errors overloaded" />
+    <MESSAGE value="Tomcat is missing" />
+    <MESSAGE value="tried to run with maven" />
+    <MESSAGE value="tomcat" />
+    <MESSAGE value="Frontend Index" />
+    <MESSAGE value="Payment" />
+    <MESSAGE value="Frontend changes" />
+    <MESSAGE value="payment" />
+    <option name="LAST_COMMIT_MESSAGE" value="payment" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -15,9 +15,9 @@
 }
 
 .container form {
-    width: 1000px;
-    padding: 20px;
-    background:transparent;
+    width: 700px;
+    padding: 40px;
+    background: #fff;
     border-radius: 10px;
 }
 
@@ -29,12 +29,11 @@ form .row {
 
 .row .column {
     flex: 1 1 250px;
-    color:white;
 }
 
 .column .title {
-    font-size: 15px;
-    color:white;
+    font-size: 20px;
+    color: #333;
     text-transform: uppercase;
     margin-bottom: 5px;
 }
@@ -49,37 +48,36 @@ form .row {
 }
 
 .input-box input {
-    width: 60%;
-    padding: 5px 5px;
-    border: 0.1px solid #ccc;
-    border-radius: 15px;
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
     font-size: 15px;
 }
 
 .column .flex {
-    display: inline-flex;
-    gap: 0.30px;
-    
+    display: flex;
+    gap: 15px;
 }
 
 .flex .input-box {
-    margin-top: 0px;
+    margin-top: 5px;
 }
 
 .input-box img {
-    height: 50px;
+    height: 34px;
     margin-top: 5px;
-    filter: drop-shadow(0 0 1px white);
+    filter: drop-shadow(0 0 1px #000);
 }
 
 form .btn {
-    width: 60%;
-    padding: 8px;
-    background: #211668;
+    width: 100%;
+    padding: 12px;
+    background: #8175d3;
     border: none;
     outline: none;
     border-radius: 6px;
-    font-size: 12px;
+    font-size: 17px;
     color: #fff;
     margin-top: 5px;
     cursor: pointer;
@@ -87,7 +85,5 @@ form .btn {
 }
 
 form .btn:hover {
-    background: #ffffff;
-    position: relative;
+    background: #6a5acd;
 }
-
